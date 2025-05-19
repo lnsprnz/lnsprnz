@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Linus
 - 👀 I’m interested in AI Machine Vision 
-- 🌱 I’m currently learning 
 - 📫 LinkedIn: Linus Prinz
 - 😄 Pronouns: he/his
 
